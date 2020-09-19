@@ -13,6 +13,7 @@ The final visual result as well as detailed step-by-step tutorial can be found b
 
 
 ## Files description
-- [**cam_project/**](https://github.com/10ondr/Blend4Web-video-stream/tree/master/cam_project) - Blend4Web generated project ready to be deployed to a server.
-- [**cam_project/cam_project.html**](https://github.com/10ondr/Blend4Web-video-stream/blob/master/cam_project/cam_project.html) - The entry point HTML page.
+- [**cam_project/**](https://github.com/10ondr/Blend4Web-video-stream/tree/master/cam_project) - Blend4Web project ready to be deployed to a server.
+- [**cam_project/build/cam_project.html**](https://github.com/10ondr/Blend4Web-video-stream/blob/master/cam_project/build/cam_project.html) - The entry point HTML page.
+- [**cam_project/blender/**](https://github.com/10ondr/Blend4Web-video-stream/tree/master/cam_project/blender) - Blender project.
 - [**web_server.py**](https://github.com/10ondr/Blend4Web-video-stream/blob/master/web_server.py) - Simple Python webserver for delivering the files and base64 encoded JPEGs.
