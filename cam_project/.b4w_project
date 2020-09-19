@@ -1,0 +1,28 @@
+[info]
+author = 
+icon = 
+name = cam_project
+title = 
+
+[paths]
+assets_dirs = projects/cam_project/assets;
+blend_dirs = projects/cam_project/blender;
+blender_exec = C:\Users\10ondr\Desktop\blender-2.79-windows64\blender.exe
+build_dir = projects/cam_project/build
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = copy
+ignore = 
+js_ignore = 
+optimization = simple
+use_physics = True
+
+[deploy]
+assets_path_dest = assets
+assets_path_prefix = assets
+ignore = 
+override = 
+
